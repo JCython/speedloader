@@ -1,6 +1,5 @@
 import requests
 import os
-import shutil
 
 user = os.environ.get('USERNAME')
 
